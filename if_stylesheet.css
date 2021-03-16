@@ -40,6 +40,11 @@ h1 {
 	position: relative;
     z-index: 1
 }
+a
+{
+   target-name:new;
+   target-new:tab;
+}
 .grid-container div img {
 	width: 100%;
 	filter: grayscale(50%);
